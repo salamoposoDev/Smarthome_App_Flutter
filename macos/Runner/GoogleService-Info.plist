@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>41319614717-t2bjbk409002kqhls38icbb3l04t0hei.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.41319614717-t2bjbk409002kqhls38icbb3l04t0hei</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDDP7yvDelIyHNNrlUxJ1ztn8GabePVUdk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>41319614717</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.smarthomeApp</string>
+	<key>PROJECT_ID</key>
+	<string>smarthome-app-3ea44</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smarthome-app-3ea44.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:41319614717:ios:a97e6a614ef8741b611694</string>
+	<key>DATABASE_URL</key>
+	<string>https://smarthome-app-3ea44-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
